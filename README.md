@@ -1,4 +1,4 @@
-# -Capstone-Project---Finance-and-Risk-Analytics
+# Capstone-Project- Finance and Risk Analytics
 
 The project aims to understand the investor’s requirements and design strategy, investment plan, and portfolio considering maximum return and lowest risk for the upcoming five years.
 • Examined the trend of over 24 stocks from the various domains of the New York Stock Exchange and S&P500 from the year 2015 to 2020.
